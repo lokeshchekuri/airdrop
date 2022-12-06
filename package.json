@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.69.0"
+  },
+  "name": "workspace",
+  "description": "",
+  "version": "1.0.0",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshchekuri/airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshchekuri/airdrop/issues"
+  },
+  "homepage": "https://github.com/lokeshchekuri/airdrop#readme"
+}
